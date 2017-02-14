@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">LearningAndroid</string>
+
+    <string name="camera_permission_not_granted">Camera Permission Not Granted</string>
+    <string name="camera_permission_confirmation">Camera Permission Confirmation</string>
+    <string name="picture_taken">Picture Taken</string>
+    <string name="flash_auto">Flash Auto</string>
+    <string name="flash_on">Flash On</string>
+    <string name="flash_off">Flash Off</string>
+
+
+</resources>
